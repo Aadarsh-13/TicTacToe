@@ -58,8 +58,8 @@ Implements the **game logic**:
 ---
 
 ## 🎮 Screenshots
-![Tic Tac Toe Game](![image](https://github.com/user-attachments/assets/dc2c0b4e-ef0c-4340-9188-2414b687efcf)
-)
+
+![image](https://github.com/user-attachments/assets/e326ed30-82fb-498a-a97a-b1d8a1f34259)
 
 ---
 
